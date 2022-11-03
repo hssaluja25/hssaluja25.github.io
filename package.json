@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.26.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hssaluja25/portfolio.git"
+  },
+  "author": "Harpreet Singh Saluja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hssaluja25/portfolio/issues"
+  },
+  "homepage": "https://github.com/hssaluja25/portfolio#readme"
+}
