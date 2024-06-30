@@ -677,6 +677,7 @@ body.open .hamburger .bar:last-child {
   font-weight: 400;
   font-size: 1rem;
   transition: 0.3s color;
+  text-align: center;
 }
 
 .skills .dots {
